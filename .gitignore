@@ -1,0 +1,13 @@
+## 忽略编译产物和依赖包
+bin/
+obj/
+packages/
+
+## 忽略 IDE 配置
+.vs/
+*.user
+*.suo
+
+## 忽略数据库和输出
+*.db
+DetectionResults/

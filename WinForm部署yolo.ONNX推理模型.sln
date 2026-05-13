@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 18
+VisualStudioVersion = 18.4.11626.88 stable
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinForm部署yolo.ONNX推理模型", "WinForm部署yolo.ONNX推理模型.csproj", "{0C32624C-238C-48B9-9E2A-5B06B2719880}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "text", "..\text\text.csproj", "{8EBEA421-318C-492F-B298-371FE50DF0AD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0C32624C-238C-48B9-9E2A-5B06B2719880}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C32624C-238C-48B9-9E2A-5B06B2719880}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C32624C-238C-48B9-9E2A-5B06B2719880}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C32624C-238C-48B9-9E2A-5B06B2719880}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8EBEA421-318C-492F-B298-371FE50DF0AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8EBEA421-318C-492F-B298-371FE50DF0AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8EBEA421-318C-492F-B298-371FE50DF0AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8EBEA421-318C-492F-B298-371FE50DF0AD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7F8F0CF3-A624-4155-945A-EA848228BDB3}
+	EndGlobalSection
+EndGlobal
