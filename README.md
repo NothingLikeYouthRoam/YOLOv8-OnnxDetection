@@ -1,6 +1,6 @@
 # 基于 YOLOv8 的路面缺陷检测系统
 
-C# WinForms 桌面应用，加载 YOLOv8 ONNX 模型，实现道路裂缝与坑洼的实时目标检测。
+C# WinForms 桌面应用，加载 YOLOv8 ONNX 模型，实现道路裂缝与坑洼的目标检测。
 
 ## 功能
 
